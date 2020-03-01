@@ -2,6 +2,7 @@
 Weather Query Service, developed by react + springboot+ rest api
 
 You can visit following link to see the demo
+
 Online Demo: https://www.youtube.com/watch?v=EcE9ZBsGv9I
 
 1: download bruce-weather-forecast (SpringBoot) and bruce-react-weather-app (React)
