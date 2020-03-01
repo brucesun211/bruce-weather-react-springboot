@@ -11,7 +11,7 @@ Weather Query Service, developed by react + springboot+ rest api
 
 5: right click YourForecastApplication and see options, go to 'Run As' --> Java Application
 
-6: wait Spring Boot App Start
+6: wait Spring Boot App to start
 
 7: Open VS Code, open Folder --> select bruce-react-weather-app 
 
