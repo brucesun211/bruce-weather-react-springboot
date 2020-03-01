@@ -1,0 +1,20 @@
+npm install redux react-redux
+下面是scroll animation react reveal  widget
+npm install react-reveal --save
+
+https://www.npmjs.com/package/react-reveal
+https://www.react-reveal.com/examples/common/fade/
+
+https://stackoverflow.com/questions/29364262/how-to-group-by-and-sum-array-of-object
+
+https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects
+
+
+ heroku login
+ heroku create
+
+git init
+heroku git:remote -a quiet-beyond-08612
+
+heroku url:
+https://quiet-beyond-08612.herokuapp.com/
